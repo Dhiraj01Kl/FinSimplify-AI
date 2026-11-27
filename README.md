@@ -2,7 +2,7 @@
 ## FinNews AI – Project Links
 
 - **Live Project:** [Visit FinNews AI](https://finsimplify-ai-2.onrender.com/)
-- **Project Overview:** [View Project Documentation](https://docs.google.com/document/d/1j999SwDER8XQWrpGFypSKwHcRYSctoSZ/edit?usp=sharing)
+- **Project DOCUMENTATION:** [View Project Documentation](https://docs.google.com/document/d/1j999SwDER8XQWrpGFypSKwHcRYSctoSZ/edit?usp=drive_link&ouid=108973995181112258700&rtpof=true&sd=true)
 - **Project Demo:** [https://drive.google.com/file/d/1ReDYUBl6JHfaX32fAFTn7Nvg0mp_8Y9z/view?usp=sharing]
 
 
